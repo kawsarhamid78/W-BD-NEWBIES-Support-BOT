@@ -1,1 +1,1 @@
-# W-BD-NEWBIES-Support-BOT
+# weku-newbies-upvote-bot
